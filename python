@@ -1,0 +1,10 @@
+# This is a basic Python program
+# It prints a message to the console
+
+def main():
+    print("I learning AWS")
+
+# Entry point of the program
+if __name__ == "__main__":
+    main()
+
